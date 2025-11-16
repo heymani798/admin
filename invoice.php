@@ -582,7 +582,7 @@
                             <p class="text-sm">3</p>
                           </td>
                           <td>
-                            <p class="text-sm">$700</p>
+                            <p class="text-sm">62,113.797INR</p>
                           </td>
                         </tr>
                         <tr>
@@ -598,7 +598,7 @@
                             <p class="text-sm">1</p>
                           </td>
                           <td>
-                            <p class="text-sm">$1000</p>
+                            <p class="text-sm">88,733.99INR</p>
                           </td>
                         </tr>
                         <tr>
@@ -614,7 +614,7 @@
                             <p class="text-sm">2</p>
                           </td>
                           <td>
-                            <p class="text-sm">$4000</p>
+                            <p class="text-sm">3,54,935.9827INR</p>
                           </td>
                         </tr>
                         <tr>
@@ -624,7 +624,7 @@
                             <h6 class="text-sm text-medium">Subtotal</h6>
                           </td>
                           <td>
-                            <h6 class="text-sm text-bold">$5700</h6>
+                            <h6 class="text-sm text-bold">5,05,783.78INR</h6>
                           </td>
                         </tr>
                         <tr>
@@ -654,7 +654,7 @@
                             <h4>Total</h4>
                           </td>
                           <td>
-                            <h4>$3135</h4>
+                            <h4>2,78,181.07INR</h4>
                           </td>
                         </tr>
                       </tbody>
