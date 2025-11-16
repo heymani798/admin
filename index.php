@@ -524,7 +524,7 @@
                 </div>
                 <div class="content">
                   <h6 class="mb-10">Total Income</h6>
-                  <h3 class="text-bold mb-10">$74,567</h3>
+                  <h3 class="text-bold mb-10">66,16,627.89INR</h3>
                   <p class="text-sm text-success">
                     <i class="lni lni-arrow-up"></i> +5.45%
                     <span class="text-gray">Increased</span>
