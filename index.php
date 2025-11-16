@@ -524,7 +524,7 @@
                 </div>
                 <div class="content">
                   <h6 class="mb-10">Total Income</h6>
-                  <h3 class="text-bold mb-10">66,16,627.89INR</h3>
+                  <h3 class="text-bold mb-10">₹66,16,627.89</h3>
                   <p class="text-sm text-success">
                     <i class="lni lni-arrow-up"></i> +5.45%
                     <span class="text-gray">Increased</span>
@@ -541,7 +541,7 @@
                 </div>
                 <div class="content">
                   <h6 class="mb-10">Total Expense</h6>
-                  <h3 class="text-bold mb-10">21,79,928.01INR</h3>
+                  <h3 class="text-bold mb-10">₹21,79,928.01</h3>
                   <p class="text-sm text-danger">
                     <i class="lni lni-arrow-down"></i> -2.00%
                     <span class="text-gray">Expense</span>
@@ -576,7 +576,7 @@
                 <div class="title d-flex flex-wrap justify-content-between">
                   <div class="left">
                     <h6 class="text-medium mb-10">Yearly Stats</h6>
-                    <h3 class="text-bold">2,17,82,332.52INR</h3>
+                    <h3 class="text-bold">₹2,17,82,332.52</h3>
                   </div>
                   <div class="right">
                     <div class="select-style-1">
@@ -704,13 +704,13 @@
                           <p class="text-sm">Interior</p>
                         </td>
                         <td>
-                          <p class="text-sm">30,613.23INR</p>
+                          <p class="text-sm">₹30,613.23</p>
                         </td>
                         <td>
-                          <p class="text-sm">3,815.56INR</p>
+                          <p class="text-sm">₹3,815.56</p>
                         </td>
                         <td>
-                          <p class="text-sm">3,993.02INR</p>
+                          <p class="text-sm">₹3,993.02</p>
                         </td>
                         <td>
                           <div class="action justify-content-end">
@@ -747,13 +747,13 @@
                           <p class="text-sm">Interior</p>
                         </td>
                         <td>
-                          <p class="text-sm">12,866.42INR</p>
+                          <p class="text-sm">₹12,866.42</p>
                         </td>
                         <td>
-                          <p class="text-sm">1,153.54INR</p>
+                          <p class="text-sm">₹1,153.54</p>
                         </td>
                         <td>
-                          <p class="text-sm">1,331.01INR</p>
+                          <p class="text-sm">₹1,331.01</p>
                         </td>
                         <td>
                           <div class="action justify-content-end">
@@ -790,13 +790,13 @@
                           <p class="text-sm">Interior</p>
                         </td>
                         <td>
-                          <p class="text-sm">8,429.72INR</p>
+                          <p class="text-sm">₹8,429.72</p>
                         </td>
                         <td>
-                          <p class="text-sm">2,839.4879INR</p>
+                          <p class="text-sm">₹2,839.4879</p>
                         </td>
                         <td>
-                          <p class="text-sm">19,077.80INR</p>
+                          <p class="text-sm">₹19,077.80</p>
                         </td>
                         <td>
                           <div class="action justify-content-end">
@@ -833,13 +833,13 @@
                           <p class="text-sm">Interior</p>
                         </td>
                         <td>
-                          <p class="text-sm">9,317.06INR</p>
+                          <p class="text-sm">₹9,317.06</p>
                         </td>
                         <td>
-                          <p class="text-sm">2,040.88INR</p>
+                          <p class="text-sm">₹2,040.88</p>
                         </td>
                         <td>
-                          <p class="text-sm">30,613.22INR</p>
+                          <p class="text-sm">₹30,613.22</p>
                         </td>
                         <td>
                           <div class="action justify-content-end">
@@ -1058,7 +1058,7 @@
                           <p class="text-sm">Interior</p>
                         </td>
                         <td>
-                          <p class="text-sm">30,613.22INR</p>
+                          <p class="text-sm">₹30,613.22</p>
                         </td>
                         <td>
                           <span class="status-btn close-btn">Pending</span>
@@ -1096,7 +1096,7 @@
                           <p class="text-sm">Interior</p>
                         </td>
                         <td>
-                          <p class="text-sm">30,613.22INR</p>
+                          <p class="text-sm">₹30,613.22</p>
                         </td>
                         <td>
                           <span class="status-btn warning-btn">Refund</span>
@@ -1134,7 +1134,7 @@
                           <p class="text-sm">Interior</p>
                         </td>
                         <td>
-                          <p class="text-sm">30,613.22INR</p>
+                          <p class="text-sm">₹30,613.22</p>
                         </td>
                         <td>
                           <span class="status-btn success-btn">Completed</span>
@@ -1172,7 +1172,7 @@
                           <p class="text-sm">Interior</p>
                         </td>
                         <td>
-                          <p class="text-sm">30,613.22INR</p>
+                          <p class="text-sm">₹30,613.22</p>
                         </td>
                         <td>
                           <span class="status-btn close-btn">Canceled</span>
